@@ -2,4 +2,4 @@
 
 🔗 Demo
 
-    - [DEMO LINK](https://TetianaSobolieva.github.io/layout_landing-page-N/)
+    Live Demo(https://TetianaSobolieva.github.io/layout_landing-page-N/)
