@@ -1,3 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# Nothing - Landing Page
 
     - [DEMO LINK](https://TetianaSobolieva.github.io/layout_landing-page-N/)
