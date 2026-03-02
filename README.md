@@ -5,20 +5,15 @@ A responsive landing page for store **Nothing** — built with pure HTML and SCS
 ---
 [Live DEMO](https://tetianasobolieva.github.io/layout_landing-page-N/)
 
-    [🔗 Demo](https://TetianaSobolieva.github.io/layout_landing-page-N/)
-
----
-
 ## 🛠 Tech Stack
+---
 
 * **HTML5** — semantic markup
 * **CSS3 / SCSS** — styling with variables, nesting and partials
 * **Parcel** — module bundler and dev server
 
+## 📁 Project Structure
 ---
-
-## 📁 Project Structure
-## 📁 Project Structure
 
 ```text
 layout_landing-page-N/
