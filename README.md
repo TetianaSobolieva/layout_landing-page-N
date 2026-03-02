@@ -2,6 +2,7 @@
 A responsive landing page for store **Nothing** — built with pure HTML and SCSS, bundled with Parcel.
 
 🔗 Demo
+---
 [Live DEMO](https://tetianasobolieva.github.io/layout_landing-page-N/)
 
     [🔗 Demo](https://TetianaSobolieva.github.io/layout_landing-page-N/)
