@@ -31,3 +31,9 @@ layout_landing-page-N/
 ├── .parcel-cache/          # Кэш сборщика Parcel
 ├── node_modules/           # Зависимости проекта
 └── README.md               # Описание проекта
+🚀 Getting Started
+---
+Prerequisites
+Node.js v14+
+npm
+Installation
