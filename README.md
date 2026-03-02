@@ -15,9 +15,6 @@ A responsive landing page for store **Nothing** — built with pure HTML and SCS
 ## 📁 Project Structure
 ---
 
-## 📁 Project Structure
----
-
 ```text
 layout_landing-page-N/
 ├── .github/workflows/      # Настройки GitHub Actions (CI/CD)
@@ -34,6 +31,7 @@ layout_landing-page-N/
 ├── .parcel-cache/          # Кэш сборщика Parcel
 ├── node_modules/           # Зависимости проекта
 └── README.md               # Описание проекта
+
 🧱 Разделы страницы (Sections)
 Проект состоит из следующих функциональных блоков:
 
