@@ -32,19 +32,13 @@ layout_landing-page-N/
 ├── node_modules/           # Зависимости проекта
 └── README.md               # Описание проекта
 
-```text
+```
 
-🧱 Разделы страницы (Sections)
-Проект состоит из следующих функциональных блоков:
+# 🧱 Разделы страницы (Sections)
 
-Header — навигационная панель с логотипом, контактным номером и функциональным бургер-меню.
-
-Menu — полноэкранное мобильное меню (overlay) для удобной навигации на смартфонах.
-
-Recommended — блок с карточками флагманских продуктов (Phone, Ear), включая цены и краткое описание.
-
-Store — раздел с категориями товаров (Audio, Accessories) для быстрого перехода к покупкам.
-
-About us — информационный блок о миссии и философии компании.
-
-Contact us — подвал сайта с формой обратной связи и актуальными контактными данными.
+- **Header** — logo, phone number, burger menu  
+- **Menu** — mobile navigation overlay  
+- **Recommended** — featured product cards  
+- **Store** — product categories  
+- **About us** — company description  
+- **Contact us** — contact form and info
