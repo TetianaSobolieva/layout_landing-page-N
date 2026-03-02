@@ -5,6 +5,9 @@ A responsive landing page for store **Nothing** — built with pure HTML and SCS
 ---
 [Live DEMO](https://tetianasobolieva.github.io/layout_landing-page-N/)
 
+## 🎨Design
+[Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
+
 ## 🛠 Tech Stack
 ---
 
@@ -33,8 +36,37 @@ layout_landing-page-N/
 └── README.md               # Описание проекта
 
 ```
+## 🚀 Getting Started
+---
+### Prerequisites
+
+- **Node.js** v14+
+- **npm**
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/TetianaSobolieva/layout_landing-page-N.git
+
+# Navigate to the project folder
+cd landing-page-N
+
+# Install dependencies
+npm install
+```
+### Running locally
+```bash
+npm start
+```
+The app will open at http://localhost:1234
+
+### Build for production
+```
+npm run build
+```
 
 # 🧱 Разделы страницы (Sections)
+---
 
 - **Header** — logo, phone number, burger menu  
 - **Menu** — mobile navigation overlay  
