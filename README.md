@@ -1,4 +1,5 @@
 # Nothing - Landing Page
+A responsive landing page for store Nothing — built with pure HTML and SCSS, bundled with Parcel.
 
 🔗 Demo
 
