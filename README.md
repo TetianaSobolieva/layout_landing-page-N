@@ -3,7 +3,7 @@ A responsive landing page for store **Nothing** — built with pure HTML and SCS
 
 🔗 Demo
 ---
-[View Live Demo](https://tetianasobolieva.github.io/layout_landing-page-N/#about-us)
+[View Live Demo](https://tetianasobolieva.github.io/layout_landing-page-N/#catagories)
 
 ## 🎨Design
 [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
