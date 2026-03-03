@@ -67,9 +67,9 @@ npm run build
 # 🧱 Разделы страницы (Sections)
 ---
 
-- **Header** — logo, phone number, burger menu  
-- **Menu** — mobile navigation overlay  
-- **Recommended** — featured product cards  
-- **Store** — product categories  
-- **About us** — company description  
+- **Header** — logo, phone number, burger menu
+- **Menu** — mobile navigation overlay
+- **Recommended** — featured product cards
+- **Store** — product categories
+- **About us** — company description
 - **Contact us** — contact form and info
