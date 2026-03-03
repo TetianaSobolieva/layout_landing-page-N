@@ -18,22 +18,21 @@ A responsive landing page for store **Nothing** — built with pure HTML and SCS
 ## 📁 Project Structure
 ---
 
-```text
-layout_landing-page-N/
-├── .github/workflows/      # Настройки GitHub Actions (CI/CD)
-├── src/                    # Исходные файлы проекта
-│   ├── images/             # Графические ресурсы (png, svg)
-│   │   └── icons/          # Иконки интерфейса
-│   ├── scripts/            # JavaScript логика
-│   │   └── main.js         # Основной файл скриптов
-│   ├── styles/             # Стили проекта (SCSS)
-│   │   ├── blocks/         # Стили отдельных компонентов/блоков
-│   │   ├── utils/          # Вспомогательные файлы (переменные, миксины)
-│   │   └── index.scss      # Главный файл стилей
-│   └── index.html          # Главная страница (шаблон)
-├── .parcel-cache/          # Кэш сборщика Parcel
-├── node_modules/           # Зависимости проекта
-└── README.md               # Описание проекта
+```textlayout_landing-page-N/
+├── .github/workflows/      # GitHub Actions settings (CI/CD)
+├── src/                    # Project source files
+│   ├── images/             # Graphic assets (png, svg)
+│   │   └── icons/          # Interface icons
+│   ├── scripts/            # JavaScript logic
+│   │   └── main.js         # Main script file
+│   ├── styles/             # Project styles (SCSS)
+│   │   ├── blocks/         # Styles for individual components/blocks
+│   │   ├── utils/          # Helper files (variables, mixins)
+│   │   └── index.scss      # Main stylesheet
+│   └── index.html          # Main page template
+├── .parcel-cache/          # Parcel bundler cache
+├── node_modules/           # Project dependencies
+└── README.md               # Project description
 
 ```
 ## 🚀 Getting Started
