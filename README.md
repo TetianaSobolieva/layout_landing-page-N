@@ -64,7 +64,7 @@ The app will open at http://localhost:1234
 npm run build
 ```
 
-# 🧱 Разделы страницы (Sections)
+# 🧱 Sections
 ---
 
 - **Header** — logo, phone number, burger menu
